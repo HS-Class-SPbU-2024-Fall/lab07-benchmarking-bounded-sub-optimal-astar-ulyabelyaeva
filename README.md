@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BKTKK_s-)
 # lab07-Benchmarking-bounded-sub-optimal-A-
 
 Цель - провести экспериментальное исследование и анализ алгоритма WA* с разными значениями параматера w (фактор субоптимальности). Неформально - нам нужен ответ на вопрос насколько сильно мы теряем в качестве решения (длине пути) и при этом приобретаем в вычислительной эффективности (решение ищется быстрее).
